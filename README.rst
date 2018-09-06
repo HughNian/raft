@@ -488,3 +488,5 @@ Roadmap
 References
 ==========
 Ongaro, D. (2014). Consensus: bridging theory and practice. Retrieved from https://web.stanford.edu/~ouster/cgi-bin/papers/OngaroPhD.pdf
+
+关于本源码的一些解析：https://www.jianshu.com/p/6e60c5696089
